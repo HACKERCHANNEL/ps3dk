@@ -1,0 +1,11 @@
+debug.o debug.o: debug.c ps3debug.h ../../src/base/ps3types.h \
+  /../../../../.././ps3dev/ppu/ppu/include/stdint.h \
+  c:/ps3dev/ppu/bin/../lib/gcc/ppu/4.2.0/include/stdarg.h
+
+ps3debug.h:
+
+../../src/base/ps3types.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/stdint.h:
+
+c:/ps3dev/ppu/bin/../lib/gcc/ppu/4.2.0/include/stdarg.h:

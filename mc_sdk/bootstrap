@@ -1,0 +1,6 @@
+#!/bin/sh
+
+aclocal -I aclocal || exit
+autoheader || exit
+autoconf || exit
+automake --foreign --add-missing || exit

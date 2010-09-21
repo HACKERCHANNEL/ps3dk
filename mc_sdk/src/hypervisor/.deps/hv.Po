@@ -1,0 +1,3 @@
+hv.o hv.o: hv.S lv1calltab.h
+
+lv1calltab.h:

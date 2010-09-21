@@ -1,0 +1,14 @@
+TARGET = lwip_testbed
+FINAL_TARGET = lwip_testbed.elf
+OBJS = main.o ethif.o echo.o
+
+INCDIR = 
+CFLAGS = -O2 -G0 -Wall -DDEBUG
+CXXFLAGS = $(CFLAGS)
+ASFLAGS = $(CFLAGS)
+
+LIBDIR =
+LDFLAGS =
+
+PS3SDK=$(PS3DEV)/ps3sdk
+include $(PS3SDK)/build.mak

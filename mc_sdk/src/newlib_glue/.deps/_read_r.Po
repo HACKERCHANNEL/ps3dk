@@ -1,0 +1,37 @@
+_read_r.o _read_r.o: _read_r.c \
+  /../../../../.././ps3dev/ppu/ppu/include/reent.h \
+  /../../../../.././ps3dev/ppu/ppu/include/sys/reent.h \
+  /../../../../.././ps3dev/ppu/ppu/include/_ansi.h \
+  /../../../../.././ps3dev/ppu/ppu/include/newlib.h \
+  /../../../../.././ps3dev/ppu/ppu/include/sys/config.h \
+  /../../../../.././ps3dev/ppu/ppu/include/machine/ieeefp.h \
+  /../../../../.././ps3dev/ppu/ppu/include/sys/_types.h \
+  /../../../../.././ps3dev/ppu/ppu/include/sys/lock.h \
+  c:/ps3dev/ppu/bin/../lib/gcc/ppu/4.2.0/include/stddef.h \
+  /../../../../.././ps3dev/ppu/ppu/include/machine/types.h \
+  /../../../../.././ps3dev/ppu/ppu/include/errno.h \
+  /../../../../.././ps3dev/ppu/ppu/include/sys/errno.h
+
+/../../../../.././ps3dev/ppu/ppu/include/reent.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/sys/reent.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/_ansi.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/newlib.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/sys/config.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/machine/ieeefp.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/sys/_types.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/sys/lock.h:
+
+c:/ps3dev/ppu/bin/../lib/gcc/ppu/4.2.0/include/stddef.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/machine/types.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/errno.h:
+
+/../../../../.././ps3dev/ppu/ppu/include/sys/errno.h:
