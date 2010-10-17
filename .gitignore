@@ -1,3 +1,4 @@
 .DS_Store
 .bzr/
 .deps/
+/ps3dk/*.c
