@@ -1,3 +1,0 @@
-mmuonoff.o mmuonoff.o: mmuonoff.S ../../src/startup/spr.h
-
-../../src/startup/spr.h:

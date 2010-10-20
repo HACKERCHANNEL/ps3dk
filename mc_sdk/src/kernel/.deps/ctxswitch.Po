@@ -1,3 +1,0 @@
-ctxswitch.o ctxswitch.o: ctxswitch.S ../../src/startup/spr.h
-
-../../src/startup/spr.h:

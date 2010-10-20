@@ -1,15 +1,2 @@
-PS3DK
-==================
-A free open-source PS3 development kit written specifically for homebrew
-purposes. Please use a sane cross-compiler for the PS3 native libraries.
-
-Licensed under the MIT License
-
-Credits:
-==================
-mc
-ifcaro
-#HACKERCHANNEL      -- The cool place.
-#ps3lv2             -- Hacking the PS3, one level at a time
-#ps3dev             -- Fucking OT
-
+This project is deprecated.
+Please use PSL1GHT, at http://github.com/AerialX/PSL1GHT/
